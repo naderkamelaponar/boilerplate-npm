@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author":"Nader Kamel",
+	"description":"a description",
+	 "keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
+	"license":"TBI",
+	"moment":"2.10.2",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
